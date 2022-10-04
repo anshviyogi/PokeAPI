@@ -1,0 +1,10 @@
+======================  SELF EXPLINATION  ==============================
+
+Every pockmon has their unique link which contains the data
+That link needs to be fetched 
+
+======================  WORKING  ==========================
+
+1- Fetch the main pockemon data (necessary)
+2- Brings out an array of result - which contains the name and the url   {this data can be stored in the useState}
+3- Now that url needs to be feteched {this can be fetched by maping the above useState data}
